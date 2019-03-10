@@ -52,7 +52,7 @@ export const PencilIcon = styled.a`
   text-align: center;
 `;
 export const CloseIcon = styled.a`
-  color: white;
+  color: black;
   font-size: 40px;
   position: absolute;
   top: 10px;
@@ -90,7 +90,7 @@ export const ModalContent = styled.div`
   animation-duration: 0.4s
 `;
 export const CloseModal = styled.span`
-  color: white;
+  color: black;
   float: right;
   font-size: 28px;
   font-weight: bold;
